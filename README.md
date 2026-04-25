@@ -55,8 +55,6 @@
 
 ## 🛠️ Technical Architecture
 
-```
-
 ┌─────────────────────────────────────────────────────────────┐
 │                    Ov Defi Frontend (Vercel)                │
 │                   https://ovdefi.onenov.xyz                 │
@@ -79,8 +77,6 @@
 │   • Party Management    │     │   • Staking  • Lending      │
 │   • gRPC Port 5001      │     │   • tx_logs (limits)        │
 └─────────────────────────┘     └────────────────────────────
-
-```
 
 ---
 
